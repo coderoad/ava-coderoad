@@ -1,0 +1,29 @@
+{
+  "name": "ava-coderoad",
+  "version": "0.1.0",
+  "description": "ava test runner & reporter for atom-coderoad",
+  "main": "lib/runner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderoad/ava-coderoad.git"
+  },
+  "files": ["lib"],
+  "keywords": [
+    "coderoad",
+    "ava"
+  ],
+  "author": "Shawn McKay <shawn.j.mckay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderoad/ava-coderoad/issues"
+  },
+  "homepage": "https://github.com/coderoad/ava-coderoad#readme",
+  "dependencies": {
+    "ava": "0.12.0",
+    "tap-json": "0.1.1"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,7 @@
+node_modules
+tslint.json
+src/*.js
+test/**/*.ts
+tsconfig.json
+typings
+tsd.json
