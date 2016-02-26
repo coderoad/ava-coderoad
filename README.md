@@ -1,5 +1,3 @@
-# Mocha CodeRoad
+# Ava CodeRoad
 
-[Atom-CodeRoad](https://github.com/coderoad/atom-coderoad) test runner & reporter.
-
-    npm install mocha-coderoad
+[Atom-CodeRoad](https://github.com/coderoad/atom-coderoad) test runner.
