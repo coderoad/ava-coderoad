@@ -1,3 +1,3 @@
 # Ava CodeRoad
 
-[Atom-CodeRoad](https://github.com/coderoad/atom-coderoad) test runner.
+[Ava](https://github.com/sindresorhus/ava) test runner for [Atom-CodeRoad](https://github.com/coderoad/atom-coderoad).
